@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oogheeh.toain.com/sitemap.xml
